@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\bin\Debug\net8.0\ipk24server.exe
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\bin\Debug\net8.0\ipk24server.deps.json
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\bin\Debug\net8.0\ipk24server.runtimeconfig.json
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\bin\Debug\net8.0\ipk24server.dll
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\bin\Debug\net8.0\ipk24server.pdb
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.dll
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\refint\ipk24server.dll
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.pdb
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ipk24server.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\ipk24server\ipk24server\obj\Debug\net8.0\ref\ipk24server.dll
