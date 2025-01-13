@@ -13,7 +13,7 @@ This project implements a TCP-based chat server that supports multiple clients t
 ## Example interaction
 Client A
 ```bash
-  AUTH userA IS "User A" WITH passwordA123
+  AUTH userA IS User_A WITH passwordA123
   REPLY OK IS Auth success
   MSG FROM User A IS Hello, everyone!
   REPLY OK IS Message delivered
@@ -23,9 +23,9 @@ Client A
 
 Client B
 ```bash
-  AUTH userB IS "User B" WITH passwordB123
+  AUTH userB IS User_B WITH passwordB123
   REPLY OK IS Auth success
-  JOIN channel_3 IS "User B"
+  JOIN channel_3 IS User_B
   REPLY OK IS Join success
   MSG FROM User B IS Hi, User One!
   REPLY OK IS Message delivered
